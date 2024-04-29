@@ -1,0 +1,13 @@
+/* notes.css */
+.note {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-left: 3px solid #ffa726;
+    font-style: italic;
+}
+
+.note p {
+    margin: 0;
+    text-align: justify;
+}

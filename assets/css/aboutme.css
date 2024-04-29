@@ -1,0 +1,10 @@
+
+/* Applying Roboto font to the featured post */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+article.post.featured p {
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+
+}
